@@ -1,4 +1,4 @@
-import 'eden_failure.dart';
+import 'fountain_failure.dart';
 
 /// ApiRequestFailure
 class ApiRequestFailure implements Exception {

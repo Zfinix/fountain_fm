@@ -1,2 +1,2 @@
 export 'api_request_failure.dart';
-export 'eden_failure.dart';
+export 'fountain_failure.dart';
